@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS(Yusuf)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi_profil">
+        NIM: 1910031802142
+        Prodi: Teknik Informatika Malam
+        Semester: 6
+    </string>
+</resources>

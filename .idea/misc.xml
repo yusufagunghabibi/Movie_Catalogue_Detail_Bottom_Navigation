@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/drawable/image_natsu_background.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/drawable/image_yusu_background.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/activity_detail_movie.xml" value="0.29444444444444445" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/fragment_movie.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/fragment_profil.xml" value="0.22" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/fragment_tv.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/layout/movie_item.xml" value="0.22" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/menu/menu_bottom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/mipmap-anydpi-v26/image_natsu.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/mipmap-anydpi-v26/image_natsu_round.xml" value="0.1025" />
+        <entry key="..\:/Kuliah/Tugas Kuliah Sem. 6/Native Mobile Programming (Junadhi, M.Kom)/UASYusuf/app/src/main/res/mipmap-anydpi-v26/image_yusu.xml" value="0.1025" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
